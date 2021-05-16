@@ -16,6 +16,13 @@ import java.util.Scanner;
 /**
 
  @author EMAM
+ 
+ whatsapp -> +201552551432
+ facebook -> https://www.facebook.com/EMAM1999
+ telegram -> @EMAM1999
+ github -> https://github.com/EMAM1999
+ youtube list for java level 1 -> https://www.youtube.com/playlist?list=PLy7RKU-J34Z1P_v-rXWCLGoRJK1o-RxEL
+
  */
 public class JavaCode {
 
